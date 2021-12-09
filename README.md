@@ -1,5 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-check live project here [Vidly App](https://shrouded-woodland-19016.herokuapp.com/).
+# vidly 💸
+fintech startup
+
+## Stack
+React, api, react class components
+## Live link [vidly](https://shrouded-woodland-19016.herokuapp.com/)
+
+# This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
